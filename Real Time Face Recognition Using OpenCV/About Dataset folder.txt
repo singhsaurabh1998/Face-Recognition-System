@@ -1,7 +1,6 @@
 *******INFO 1*********
 Here You Need To store Your face 
-Samples(usually 60 Or U can increase Or decrease)
-To be recognized.
+Samples(usually 60 Or U can increase Or decrease) By Creating The Dataset Folder.
 
 *******INFO 2*********
 Also use This folder to Train The Images.
