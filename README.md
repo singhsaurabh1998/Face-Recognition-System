@@ -1,2 +1,2 @@
 # Face-Recognition-System
-Face Recognition With OpenCv
+Face Recognition With OpenCv & Python
