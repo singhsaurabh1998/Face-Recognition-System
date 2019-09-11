@@ -39,7 +39,7 @@ while True:
     img = cv2.flip(img, 1)  # avoiding the mirror image
 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) # converting the img into gray scale
-
+# detect faces
     faces = faceCascade.detectMultiScale(
         gray,
         scaleFactor=1.3,
